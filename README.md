@@ -1,2 +1,2 @@
 # SocietyForFreeThinkers
-Free Place To Discuss Open Source . By Students , For Everybody
+**Free** Place To Discuss Open Source . By Students , For Everybody
